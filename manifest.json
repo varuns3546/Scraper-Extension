@@ -1,0 +1,12 @@
+{
+    "name": "Scraper Extension",
+    "description": "Extension that scrapes product data",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["tabs", "notifications", "storage", "unlimitedStorage", "downloads"],
+    "action": {
+      "default_popup": "pages/main.html"
+    },
+    "devtools_page": "devtools/devtools.html"
+
+  }

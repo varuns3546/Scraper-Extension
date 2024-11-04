@@ -1,0 +1,1 @@
+chrome.devtools.panels.create("Web Scraper", null, "panel.html");
